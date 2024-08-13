@@ -6,4 +6,4 @@ The goal was to exercise DOM manipulation, ES6 modules and Webpack.
 
 ## Live preview
 
-Click here - [Restaurant Page](https://).
+Click here - [Restaurant Page](https://pr3ston1989.github.io/restaurant-page/).
